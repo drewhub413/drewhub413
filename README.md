@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey, I'm Drew (@drewhub413) 👋
 
-<!--
-**drewhub413/drewhub413** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevOps engineer based in Amsterdam. Most of my time goes into writing Terraform, untangling Kubernetes manifests, and making sure GitHub Actions workflows don't fail at 2 AM.
 
-Here are some ideas to get you started:
+### What I'm up to
+- 🛠️ Building predictable, maintainable infrastructure as code
+- 📦 Moving apps into containers and running them on K8s without drama
+- 🐧 Writing Bash scripts for things that should have been automated months ago
+- 🔍 Currently digging into eBPF and service mesh networking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Daily drivers
+- **OS / Infra:** Linux, Terraform, AWS, Docker
+- **Orchestration / CI:** Kubernetes, Helm, ArgoCD, GitHub Actions
+- **Glue code:** Bash, Python, Make
+
+### Get in touch
+- Ping me on [LinkedIn](https://linkedin.com) or drop an issue/discussion in any public repo here.
